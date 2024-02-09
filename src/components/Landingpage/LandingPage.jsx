@@ -34,7 +34,7 @@ export const Herosection = () => {
 
             <div className=' w-full flex flex-col justify-center items-center space-y-5'>
                 <h1 className='text-[16px] font-bold ' >Supported and backed by:</h1>
-                <ul className='flex justify-evenly space-y-4 md:space-y-0 w-[80%] md:h-[200px] items-center flex-wrap'>
+                <ul className='flex justify-evenly space-y-4 md:space-y-0 w-[85%] md:h-[200px] items-center flex-wrap'>
                     <li className='w-[199px] h-[74px] bg-[#D9D9D9] hover:bg-[#9d9898] text-black text-xl p-3 flex justify-center items-center font-bold'>
                         Lorem
                     </li>
