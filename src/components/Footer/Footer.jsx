@@ -8,11 +8,11 @@ const Footer = () => {
                     <div className='font-light text-[20px] w-full h-full flex flex-col justify-start items-center p-2 '>
                         <h1 className='text-[20px] font-normal '>Lorem</h1>
                         <ul className=' font-light text-[20px] w-full h-full flex flex-col justify-start items-center p-2 '>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
                         </ul>
                     </div>
                 </div>
@@ -20,8 +20,8 @@ const Footer = () => {
                     <div className=' font-light text-[20px] w-full  flex flex-col justify-start items-center p-2 '>
                         <h1 className='text-[20px] font-normal '>Lorem</h1>
                         <ul className=' font-light text-[20px] w-full flex flex-col justify-start items-center p-2 '>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
 
                         </ul>
                     </div>
@@ -29,8 +29,8 @@ const Footer = () => {
                     <div className='font-light text-[20px] w-full flex flex-col justify-start items-center p-2 '>
                         <h1 className='text-[20px] font-normal '>Lorem</h1>
                         <ul className=' font-light text-[20px] w-full flex flex-col justify-end items-center p-2 '>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
 
                         </ul>
                     </div>
@@ -40,11 +40,11 @@ const Footer = () => {
                     <div className=' font-light text-[20px] w-full flex flex-col  items-center p-2 '>
                         <h1 className='text-[20px] font-normal '>Lorem</h1>
                         <ul className='space-y-1 font-light text-[20px] w-full flex flex-col items-center p-2 '>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
                         </ul>
                     </div>
                 </div>
@@ -53,9 +53,9 @@ const Footer = () => {
                     <div className=' font-light text-[20px] w-full  flex flex-col items-center  p-2 '>
                         <h1 className='text-[20px] font-normal '>Lorem</h1>
                         <ul className=' font-light text-[20px] w-full  flex flex-col items-center p-2 '>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
 
                         </ul>
                     </div>
@@ -63,8 +63,8 @@ const Footer = () => {
                     <div className='font-light text-[20px] w-full flex flex-col items-center p-2 '>
                         <h1 className='text-[20px] font-normal '>Lorem</h1>
                         <ul className='font-light text-[20px] w-full  flex flex-col items-center p-2 '>
-                            <li>Ipsum</li>
-                            <li>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
+                            <li className='hover:text-[#9d9898] cursor-pointer'>Ipsum</li>
 
                         </ul>
                     </div>
